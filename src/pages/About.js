@@ -42,8 +42,7 @@ function About() {
                                     for Elementary, Secondary, University and Public.
                                     This event is expected to help evaluate the results
                                     of student research. Indonesian Young Scientist
-                                    Association (IYSA) in collaboration with Universitas
-                                    PGRI Mahadewa Bali, Faculty of Engineering
+                                    Association (IYSA) in collaboration with Universitas PGRI Mahadewa indonesia Bali, Faculty of Engineering
                                     Diponegoro University and BUCA IMSEF Turkey
                                     will hold the event “Youth International Science
                                     Fair (YISF).
